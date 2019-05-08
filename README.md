@@ -1,10 +1,10 @@
-# kabel/php-ext
+# IVIR3zaM/php-ext
 Core PHP extension formulae for the Homebrew package manager. These extensions are not a part of [Homebrew/core](https://github.com/Homebrew/homebrew-core/) because they are either not popular enough or have known stability problems.
 
 Other extensions that used to be available from, the now deprecated, [Homebrew/php](https://github.com/Homebrew/homebrew-php/) should be installed through [PECL](https://pecl.php.net/).
 
 ## How do I install these formulae?
-`brew tap kabel/php-ext` then `brew install <formula>`
+`brew tap IVIR3zaM/php-ext` then `brew install <formula>`
 
 ## Troubleshooting
 First, please run `brew update` and `brew doctor`.
